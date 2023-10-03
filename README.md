@@ -1,6 +1,6 @@
 # clean-code-typescript [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Clean%20Code%20Typescript&url=https://github.com/labs42io/clean-code-typescript)
 
-Clean Code concepts adapted for TypeScript.  
+Clean Code concepts adapted for TypeScript
 Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript).
 
 ## Table of Contents
